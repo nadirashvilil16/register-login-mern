@@ -6,7 +6,7 @@ react + node.js + MySQL
 
 წაშლილია node\_modules (server და client ფაილებიდან), ილიხეთ image1, image2 საბოლოო ვერსია როგორც უნდა გმაოიყურებოდეს
 
-გადმოწერეთ xampp და დაარეგისტრირეთ, გაუშვით apache და MySQL
+გადმოწერეთ xampp და დააინსტალირეთ, გაუშვით apache და MySQL
 
 
 
